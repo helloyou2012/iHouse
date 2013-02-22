@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>nameKey</key>
+		<string>户型图</string>
+		<key>imageKey</key>
+		<string>g-huxing.png</string>
+		<key>fileKey</key>
+		<string>image-groups-0</string>
+	</dict>
+	<dict>
+		<key>nameKey</key>
+		<string>实景图</string>
+		<key>imageKey</key>
+		<string>g-shijing.png</string>
+		<key>fileKey</key>
+		<string>image-groups-1</string>
+	</dict>
+	<dict>
+		<key>nameKey</key>
+		<string>规划图</string>
+		<key>imageKey</key>
+		<string>g-guihua.png</string>
+		<key>fileKey</key>
+		<string>image-groups-2</string>
+	</dict>
+	<dict>
+		<key>nameKey</key>
+		<string>交通图</string>
+		<key>imageKey</key>
+		<string>g-jiaotong.png</string>
+		<key>fileKey</key>
+		<string>image-groups-3</string>
+	</dict>
+	<dict>
+		<key>nameKey</key>
+		<string>样板图</string>
+		<key>imageKey</key>
+		<string>g-yangban.png</string>
+		<key>fileKey</key>
+		<string>image-groups-4</string>
+	</dict>
+	<dict>
+		<key>nameKey</key>
+		<string>周边图</string>
+		<key>imageKey</key>
+		<string>g-qita.png</string>
+		<key>fileKey</key>
+		<string>image-groups-5</string>
+	</dict>
+</array>
+</plist>

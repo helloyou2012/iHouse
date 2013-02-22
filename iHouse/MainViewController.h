@@ -1,0 +1,14 @@
+//
+//  MainViewController.h
+//  iHouse
+//
+//  Created by HelloYou on 7/31/12.
+//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface MainViewController : UIViewController<UIActionSheetDelegate>
+- (IBAction)handleSwipeFrom:(UISwipeGestureRecognizer *)recognizer;
+-(IBAction)showActionSheet:(id)sender;
+@end

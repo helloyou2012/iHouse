@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>titleKey</key>
+		<string>醉美优山美地夏日啤酒烧烤狂欢节完美落幕</string>
+		<key>urlKey</key>
+		<string>news-1</string>
+	</dict>
+	<dict>
+		<key>titleKey</key>
+		<string>鲁能东方•优山美地滨海销售中心8月耀启金石滩</string>
+		<key>urlKey</key>
+		<string>news-2</string>
+	</dict>
+	<dict>
+		<key>titleKey</key>
+		<string>东方•蓝调大连首席英伦风情商街开盘售罄</string>
+		<key>urlKey</key>
+		<string>news-3</string>
+	</dict>
+	<dict>
+		<key>titleKey</key>
+		<string>鲁能东方•优山美地应时成熟绽放</string>
+		<key>urlKey</key>
+		<string>news-4</string>
+	</dict>
+	<dict>
+		<key>titleKey</key>
+		<string>鲁能东方•优山美地“粽”情端午活动欢喜落幕</string>
+		<key>urlKey</key>
+		<string>news-5</string>
+	</dict>
+	<dict>
+		<key>titleKey</key>
+		<string>汗水礼赞优山美地，喜迎鲁能十年辉煌</string>
+		<key>urlKey</key>
+		<string>news-6</string>
+	</dict>
+	<dict>
+		<key>titleKey</key>
+		<string>鲁能鲁能东方•优山美地第二届业主樱桃采摘节欢乐启幕</string>
+		<key>urlKey</key>
+		<string>news-7</string>
+	</dict>
+	<dict>
+		<key>titleKey</key>
+		<string>鲁能东方蓝调 30000㎡英伦风情商街耀世发售</string>
+		<key>urlKey</key>
+		<string>news-8</string>
+	</dict>
+	<dict>
+		<key>titleKey</key>
+		<string>鲁能东方·优山美地滨海销售中心即将盛装开放</string>
+		<key>urlKey</key>
+		<string>news-9</string>
+	</dict>
+</array>
+</plist>
